@@ -25,11 +25,54 @@
 
  ## Redes 	😝🌟 📱😎  
 
-- <h1 ><a href="www.linkedin.com/in/harold-alzate-ayala-desarrollador-full-stack-mern">Linkedin</a> 📲 </h1>
-- <h1 > <a href="https://www.hackerrank.com/haroldalzate99 ">HacherRank</a> 💻 </h1>
-- <h1 > <a href="https://instagram.com/haroldhuaa228?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==">Instagram</a> 👽 </h1>
+- <h1 align="center"><a href="www.linkedin.com/in/harold-alzate-ayala-desarrollador-full-stack-mern">Linkedin</a> 📲 </h1>
+- <h1 align="center" > <a href="https://www.hackerrank.com/haroldalzate99 ">HacherRank</a> 💻 </h1>
+- <h1 align="center" > <a href="https://instagram.com/haroldhuaa228?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==">Instagram</a> 👽 </h1>
 
+<h2 align="center">Proyectos</h2>
+<br>
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">StackCommerce</h3>
+<div align="center">
+<a href=""https://github.com/harold12a/stack_commerce_front" target="_blank"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="https://giphy.com/"></a>
+<p>
+<a href="https://github.com/harold12a/stack_commerce_front" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<!-- <a href="https://youtu.be/vJapzH_46a8" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a> -->
+  
+</p>
+<p> La aplicación utiliza una base de datos <strong> MongoDB </strong> para almacenar información sobre productos, usuarios y pedidos <strong> Express.js</strong> se encarga de la lógica del servidor, mientras que <strong> React.js  </strong> se utiliza para crear la interfaz de usuario interactiva y receptiva.  <strong>  React Tailwind CSS</strong> se emplea para estilizar la aplicación de manera elegante, y <strong>  React Icons </strong> proporciona iconos visuales para mejorar la experiencia del usuario. </p>
+</div>
+                                                                                      
+</td>
 
+<td width="50%">
+               <br>
+<h3 align="center">Curriculum</h3>
+<div align="center">                                       
+<a href="https://harold12a.github.io/CV/" target="_blank"><img src="https://media.giphy.com/media/3o6MbsqRR1R3Flc1wI/giphy.gif" width="400" alt="Curriculum"></a>
+<br>
+<p>
+<a href="https://harold12a.github.io/CV/" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<!-- <a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+</a> -->
+</p>
+  
+</p>Desarrollador Web Full Stack - MERN. Con habilidades técnicas para diseñar sitios web y aplicaciones utilizando  <strong>   HTML, CSS, Bootstrap 5, TailWind CSS, JavaScript, React.js, MongoDB, Express.js, Node.js, SQL, MySQL, Java, Postman y GitHub. </strong> Las cuales, permiten entregar productos de alta calidad y satisfacer las necesidades y expectativas de las organizaciones de manera efectiva. Con habilidades de innovación, resolución creativa de problemas, trabajo en equipo, comunicación efectiva y pensamiento crítico.
+</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
 
 <!--
 **harold12a/harold12a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
