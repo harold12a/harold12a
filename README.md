@@ -2,7 +2,8 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://harold12a.github.io/CV/">Harold Alzate</a> 👋</h1>
 </div>
-### ⚙️ &nbsp;GitHub Analytics
+
+<img src="file:///C:/Users/MSI%20GAMING/Downloads/ar6g8-8znic.webp">
 
 <!--
 **harold12a/harold12a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
