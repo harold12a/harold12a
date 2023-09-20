@@ -3,7 +3,7 @@
 <h1 align="center">Hola, soy <a href="https://harold12a.github.io/CV/">Harold Alzate</a> 👋</h1>
 </div>
 
-<img src="https://kirk.cdkm.com/convert/file/st3h554syd23j0ypw617k61dyngrr3kl/bannergit.webp">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 <!--
 **harold12a/harold12a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
