@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://t.bkit.co/e_650af802402b1.gif 
+
 <img src="https://t.bkit.co/e_650af802402b1.gif" />
