@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://t.bkit.co/e_650af802402b1.gif" />
