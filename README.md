@@ -2,8 +2,8 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://harold12a.github.io/CV/">Harold Alzate</a> 👋</h1>
 </div>
-<div aling="center">
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200"/>
+<div align="center">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400"/>
 </div>
 
 <!--
