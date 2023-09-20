@@ -70,9 +70,10 @@
 </p>Desarrollador Web Full Stack - MERN. Con habilidades técnicas para diseñar sitios web y aplicaciones utilizando  <strong>   HTML, CSS, Bootstrap 5, TailWind CSS, JavaScript, React.js, MongoDB, Express.js, Node.js, SQL, MySQL, Java, Postman y GitHub. </strong> Las cuales, permiten entregar productos de alta calidad y satisfacer las necesidades y expectativas de las organizaciones de manera efectiva. Con habilidades de innovación, resolución creativa de problemas, trabajo en equipo, comunicación efectiva y pensamiento crítico.
 </p>
 </div> 
-<td width="50%">
-               <br>
-  
+</table>                                                                                 
+</div>
+<br>
+
 <h3 align="center">PetShop</h3>
 <div align="center">                                       
 <a href="https://harold12a.github.io/petshop/" target="_blank"><img src="https://media.giphy.com/media/mYesuO8MMfIkhYli8K/giphy.gif" width="200" alt="PetShop"></a>
@@ -89,10 +90,6 @@
 </p>Creación de una aplicación web interactiva, utilizando    <strong>    HTML, CSS, Bootstrap 5, JavaScript </strong> y consumiendo los datos de la     <strong>   API de MindHub.  </strong> Permitiendo crear contenido “Cards”, con su respectiva información dinámica, adicional se demuestra las destrezas en la página home de la web PetShop.
 </p>
 </div>   
-</table>                                                                                 
-</div>
-<br>
-
 
 <!--
 **harold12a/harold12a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
