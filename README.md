@@ -37,7 +37,7 @@
 <td width="50%">
 <h3 align="center">StackCommerce</h3>
 <div align="center">
-<a href=""https://github.com/harold12a/stack_commerce_front" target="_blank"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" alt="https://giphy.com/"></a>
+<a href=""https://github.com/harold12a/stack_commerce_front" target="_blank"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="https://giphy.com/"></a>
 <p>
 <a href="https://github.com/harold12a/stack_commerce_front" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -56,7 +56,7 @@
                <br>
 <h3 align="center">Curriculum</h3>
 <div align="center">                                       
-<a href="https://harold12a.github.io/CV/" target="_blank"><img src="https://media.giphy.com/media/3o6MbsqRR1R3Flc1wI/giphy.gif" width="400" alt="Curriculum"></a>
+<a href="https://harold12a.github.io/CV/" target="_blank"><img src="https://media.giphy.com/media/3o6MbsqRR1R3Flc1wI/giphy.gif" width="200" alt="Curriculum"></a>
 <br>
 <p>
 <a href="https://harold12a.github.io/CV/" target="_blank">
