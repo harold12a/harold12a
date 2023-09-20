@@ -56,7 +56,7 @@
                <br>
 <h3 align="center">Curriculum</h3>
 <div align="center">                                       
-<a href="https://harold12a.github.io/CV/" target="_blank"><img src="https://media.giphy.com/media/3o6MbsqRR1R3Flc1wI/giphy.gif" width="200" alt="Curriculum"></a>
+<a href="https://harold12a.github.io/CV/" target="_blank"><img src="https://media.giphy.com/media/3o6MbsqRR1R3Flc1wI/giphy.gif" width="250" alt="Curriculum"></a>
 <br>
 <p>
 <a href="https://harold12a.github.io/CV/" target="_blank">
