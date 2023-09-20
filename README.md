@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://harold12a.github.io/CV/">Harold Alzate</a> 👋</h1>
+</div>
 
 <!--
 **harold12a/harold12a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
