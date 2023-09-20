@@ -37,7 +37,7 @@
 <td width="50%">
 <h3 align="center">StackCommerce</h3>
 <div align="center">
-<a href=""https://github.com/harold12a/stack_commerce_front" target="_blank"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="https://giphy.com/"></a>
+<a href=""https://github.com/harold12a/stack_commerce_front" target="_blank"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="https://giphy.com/"></a>
 <p>
 <a href="https://github.com/harold12a/stack_commerce_front" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
