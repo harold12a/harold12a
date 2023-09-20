@@ -6,7 +6,7 @@
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400"/>
 </div>
 
-🌟   ## Skills 🌟 
+  ## Skills 🌟 🌟 
 
 - 💻 HTML CSS
 - 🚀 JavaScript
@@ -22,11 +22,11 @@
 - ✏️ Git
 - 📈 Postman
 
- 📱😎  ## Redes 	😝🌟
+ ## Redes 	😝🌟 📱😎  
  
-- <h1 align="center">Hola, soy <a href="www.linkedin.com/in/harold-alzate-ayala-desarrollador-full-stack-mern">Linkedin</a> 📲 </h1>
-- <h1 align="center">Hola, soy <a href="https://www.hackerrank.com/haroldalzate99 ">HacherRank</a> 💻 </h1>
-- <h1 align="center">Hola, soy <a href="https://instagram.com/haroldhuaa228?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==">Instagram</a> 👽 </h1>
+- <h1 align="center"><a href="www.linkedin.com/in/harold-alzate-ayala-desarrollador-full-stack-mern">Linkedin</a> 📲 </h1>
+- <h1 align="center"> <a href="https://www.hackerrank.com/haroldalzate99 ">HacherRank</a> 💻 </h1>
+- <h1 align="center"> <a href="https://instagram.com/haroldhuaa228?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==">Instagram</a> 👽 </h1>
 
 
 
