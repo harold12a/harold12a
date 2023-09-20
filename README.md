@@ -78,7 +78,7 @@
       <br>
 <h3 align="center">PetShop</h3>
 <div align="center">                                       
-<a href="https://harold12a.github.io/petshop/" target="_blank"><img src="https://media.giphy.com/media/mYesuO8MMfIkhYli8K/giphy.gif" width="200" alt="PetShop"></a>
+<a href="https://harold12a.github.io/petshop/" target="_blank"><img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" width="200" alt="PetShop"></a>
 <br>
 <p>
 <a href="https://github.com/harold12a/petshop" target="_blank">
