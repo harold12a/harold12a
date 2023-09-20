@@ -8,19 +8,19 @@
 
 ## skills 🌟 
 
-- HTML CSS
-- JavaScript
-- Java
-- Ruby
-- Bootstrap 5
-- Tailwind-CSS
-- MongoDB
-- React-js
-- Node-js
-- Express-js
-- MyQSL
-- Git
-- Postman
+- 💻 HTML CSS
+- 🚀 JavaScript
+- 📉 Java
+- ✔️ Ruby
+- 💯 Bootstrap 5
+- 🌈 Tailwind-CSS
+- 📝 MongoDB
+- 📊 React-js
+- 📘 Node-js
+- 📟 Express-js
+- 💹 MyQSL
+- ✏️ Git
+- 📈 Postman
 
 
 <!--
