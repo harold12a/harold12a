@@ -6,7 +6,7 @@
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400"/>
 </div>
 
-## skills
+## skills 🌟 
 
 - HTML CSS
 - JavaScript
