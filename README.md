@@ -29,7 +29,7 @@
 - <h1 align="center" > <a href="https://www.hackerrank.com/haroldalzate99 ">HacherRank</a> 💻 </h1>
 - <h1 align="center" > <a href="https://instagram.com/haroldhuaa228?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==">Instagram</a> 👽 </h1>
 
-<h2 align="center">Proyectos</h2>
+## Proyectos  	💀	💀 
 <br>
 <div align="center">
 <table>
@@ -37,7 +37,7 @@
 <td width="50%">
 <h3 align="center">StackCommerce</h3>
 <div align="center">
-<a href=""https://github.com/harold12a/stack_commerce_front" target="_blank"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="https://giphy.com/"></a>
+<a href=""https://github.com/harold12a/stack_commerce_front" target="_blank"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" alt="https://giphy.com/"></a>
 <p>
 <a href="https://github.com/harold12a/stack_commerce_front" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
