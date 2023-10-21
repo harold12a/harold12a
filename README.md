@@ -14,6 +14,7 @@
 - ✔️ Ruby
 - 💯 Bootstrap 5
 - 🌈 Tailwind-CSS
+- 🌈Material Talwind
 - 📝 MongoDB
 - 📊 React-js
 - 📘 Node-js
@@ -21,7 +22,8 @@
 - 💹 MyQSL
 - ✏️ Git
 - 📈 Postman
-- 
+- 📈 Insomnia
+
 
  ## Redes 	😝🌟 📱😎  
 
