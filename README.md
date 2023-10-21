@@ -14,7 +14,7 @@
 - ✔️ Ruby
 - 💯 Bootstrap 5
 - 🌈 Tailwind-CSS
-- 🌈Material Talwind
+- 🌈 Material Tailwind
 - 📝 MongoDB
 - 📊 React-js
 - 📘 Node-js
